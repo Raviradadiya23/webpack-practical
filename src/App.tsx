@@ -1,7 +1,7 @@
 // App.js
 
 import React, { useState } from "react";
-import "./App.scss";
+import "./app.scss";
 import Image from "./asset/worldcup.jpg";
 const LazyLoadComponent = React.lazy(() => import("./LazyLoadComponent"));
 
